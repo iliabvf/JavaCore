@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // Вычислить расстояние,   проходимое  светом, 
 // используя переменные  типа lonq 

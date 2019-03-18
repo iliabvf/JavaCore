@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter02;
+package com.iliabvf.javacore.chapter02;
 
 /* Продемонстрировать применение цикла for. Присвоить исходному файлу имя "ForTest.java" */ 
 class  ForTest { 

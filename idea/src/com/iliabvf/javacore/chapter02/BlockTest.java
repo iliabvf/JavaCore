@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter02;
+package com.iliabvf.javacore.chapter02;
 
 /* Продемонстрировать применение блока кода. Присвоить исходному файлу имя "BlockTest.java" */ 
 class BlockTest { 

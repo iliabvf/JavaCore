@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // Вычисление среднего из массива значений 
 class Average { 

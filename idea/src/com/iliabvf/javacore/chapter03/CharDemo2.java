@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 //Символьные переменные ведут себя как целочисленные значения 
 class CharDemo2 { 

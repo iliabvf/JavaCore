@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // В  этом примере демонстрируется динамическая инициализация 
 class DynInit { 

@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // Продемонстрировать приведение типов 
 class Conversion { 

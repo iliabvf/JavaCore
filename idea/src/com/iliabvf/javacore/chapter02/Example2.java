@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter02;
+package com.iliabvf.javacore.chapter02;
 
 /* Это еще  один короткий пример программы . Присвоить исходному файлу имя "Exaiaple2.java" */ 
 class Example2 { 

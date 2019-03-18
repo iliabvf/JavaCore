@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // Резервирование памяти вручную  для ма ссива с  разной 
 // размерностью второго измерения 

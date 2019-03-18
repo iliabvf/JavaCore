@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter02;
+package com.iliabvf.javacore.chapter02;
 
 /* Продемонстрировать применение условного оператора if. Присвоить исходному файлу имя "IfSaiaple.java" */ 
 class IfSample { 

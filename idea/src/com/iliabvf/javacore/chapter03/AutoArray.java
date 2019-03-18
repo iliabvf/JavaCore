@@ -1,4 +1,4 @@
-﻿package com.iliabvf.javacore.chapter03;
+package com.iliabvf.javacore.chapter03;
 
 // Усовершенствованная версия предыдущей программы 
 class AutoArray { 
